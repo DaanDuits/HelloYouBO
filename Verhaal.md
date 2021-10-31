@@ -16,4 +16,7 @@ ga je met ze mee of blijven jullie met z'n tweeen door reizen?
 meest drukke kant: jullie lopen richting de menigde en horen dat ze ook willen vluchten door een dreigbrief die zij hebben ontvangen Helaas gaan zij een ander kant op dan jij snel had gepland jullie lopen verder richting de bergen verderop.
 Met z'n tweeen: jullie besluiten om alleen door te reizen. toch gaan jullie richting de bergen.
 verder met de groep: jullie gaan mee met de groep mensen. Jullie maken jullie klaar om richting de bergen te gaan
-Richting de stad: Julie rijden nu richting de grote stad maar
+Richting de stad: Julie rijden nu richting de grote stad maar onderweg kom je erachter dat je je beter laag kan houden en niet naar te drukke plekken moet gaan dus je keert om terug naar de bergen.
+bij de bergen aangekomen moeten je beslissen of je om de bergen heen gaat reiden of over de berg op de voet
+bij de bergen aangekomen moet je kiezen of je er omheen gaat lopen of door de bergen heen gaat.
+bij de bergen aangekomen moeten jullie als groep kiezen of jullie door de bergen gaan of om de bergen heen.
