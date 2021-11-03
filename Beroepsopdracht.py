@@ -10,7 +10,16 @@ Tekst3 = "Jullie stappen snel de auto in maar dan moet je snel beslissen waar je
 Tekst4 = "Jullie lopen richting de menigde en horen dat ze ook willen vluchten door een dreigbrief die zij hebben ontvangen Helaas gaan zij een ander kant op dan jij snel had gepland jullie lopen verder richting de bergen verderop."
 Tekst5 = "Jullie lopen naar de kleine groep mensen op straat sommige van hun hebben ook een dreigbrief ontvangen en willen ook zo snel mogelijk weg."
 Tekst5n2 = "ga je met ze mee of blijven jullie met z'n tweeen door reizen?"
+Tekst6 = "Julie rijden nu richting de grote stad maar onderweg kom je erachter dat je je beter laag kan houden en niet naar te drukke plekken moet gaan dus je keert om terug naar de bergen."
+Tekst7 = "Bij de bergen aangekomen moeten je beslissen of je om de bergen heen gaat reiden of over de berg op de voet"
+Tekst8 = "Bij de bergen aangekomen moet je kiezen of je er omheen gaat lopen of over de bergen heen gaat."
+Tekst9 = "Je besluit met de groep mee te gaan en je volgt ze richting de bergen."
+Tekst9n2 = "Bij de bergen aangekomen moeten jullie als groep kiezen of jullie over de bergen gaan of om de bergen heen jullie keizen om over de bergen te gaan."
+Tekst10 = "In de bergen worden jullie staande gehouden door een stel mensen van de taliban ze herkennen sommige van jullie van de dreigbriefen en jullie worden opgepakt en meegenomen."
+end =0
 vn = 0
+while end == 1:
+    print("Je ben opgepakt en meegenomen door de taliban jouw en jouw kinds lot worden in hun handen gelegd.")
 while vn == 0:
     print(Intro)
     print(Intro2)
@@ -53,7 +62,7 @@ while vn == 3:
         vn = 7
 while vn == 4:
     print(Tekst4)
-    vn = 10
+    vn = 8
 while vn == 5:
     print(Tekst5)
     print(Tekst5n2)
@@ -61,6 +70,39 @@ while vn == 5:
     print("B. Ga niet mee")
     ant = input()
     if ant == "A":
-        vn = 8
+        vn = 9
     elif ant == "B":
-        vn = 9      
+        vn = 8   
+while vn == 6:
+    print(Tekst6)
+    vn = 7
+while vn == 7:
+    print(Tekst7)
+    print("A. Om de bergen heen reiden")
+    print("B. Over de bergen lopen")
+    ant = input()
+    if ant == "A":
+        vn = 10
+    elif ant == "B":
+        vn = 11
+while vn == 8:
+    print(Tekst8)
+    print("A. Om de bergen heen lopen")
+    print("B. Over de bergen lopen")
+    ant = input()
+    if ant == "A":
+        vn = 12
+    elif ant == "B":
+        vn = 13
+while vn == 9:
+    print(Tekst9)
+    print(Tekst9n2)
+    print("B. Over de bergen lopen")
+    ant = input()
+    if ant == "A":
+        vn = 14
+    elif ant == "B":
+        vn = 15
+while vn == 10:
+    print(Tekst10)
+    end = 1
